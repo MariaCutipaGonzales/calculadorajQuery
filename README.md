@@ -1,10 +1,10 @@
 # calculadora
 
-Sprint #5 ejercicio N°3<br>
+## Sprint #5 ejercicio N°3<br>
 
 <b>Para la implementacion de la calculadora se utilizó la libreria jQuery.</b>
 
-#Eventos y Funciones :
+# Eventos y Funciones : <br>
 <i>.on()</i> <br>
 <i>.val()</i><br>
 <i>.eval()</i><br>
