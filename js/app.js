@@ -1,17 +1,3 @@
-/*const calculadora = (value)=>{
-	const flexContent = $('<div class="flex-content"></div>');
-	const div = $('<div></div>');
-	const input = $('<input type="button">');
-
-	flexContent.append(div);
-	let cont =0;
-	for (var i = 0; i < 6; i++) {
-		cont++;
-		input.value=value;
-	}
-	return $('.flex').append(flexContent);
-}*/
-
 $(function(){
 	var screenVal = $('input:text');
 
